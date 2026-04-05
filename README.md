@@ -1,11 +1,5 @@
+# Hi 👋 I'm Salma Tayel
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Salma%20Tayel&fontSize=60&fontColor=e94560&fontAlignY=38&desc=.NET%20Backend%20Developer%20%7C%20ASP.NET%20Core%20%7C%20Clean%20Architecture&descAlignY=58&descColor=a8b2d8" />
-
-</div>
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-tayel-a440a1391/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Salmatayel111)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tayelsalma111@gmail.com)
